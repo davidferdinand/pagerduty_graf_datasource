@@ -1,4 +1,20 @@
-# PagerDuty datasource for Grafana
+<div align="center">
+
+<h2>PagerDuty datasource: A datasource to view alerts in grafana.</h2>
+<p>Save time by viewing your open alerts and whos assigned to them from within grafana, saving you from having to switch to another dashboard.</>
+
+  <hr />
+
+[![MIT License][license-badge]][license]
+[![PRs Welcome][prs-badge]][prs]
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
+
+[![Watch on GitHub][github-watch-badge]][github-watch]
+[![Star on GitHub][github-star-badge]][github-star]
+[![Tweet][twitter-badge]][twitter]
+
+<hr />
+
 
 ### Requirements
 
