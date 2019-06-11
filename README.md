@@ -5,13 +5,13 @@
 
   <hr />
 
-[![MIT License][license-badge]][license]
-[![PRs Welcome][prs-badge]][prs]
+[![MIT License](https://img.shields.io/github/license/boyney123/mockit.svg?color=yellow)][license]
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-[![Watch on GitHub][github-watch-badge]][github-watch]
-[![Star on GitHub][github-star-badge]][github-star]
-[![Tweet][twitter-badge]][twitter]
+[![Watch on GitHub](https://img.shields.io/github/watchers/davidferdinand/pagerduty_graf_datasource.svg?style=social)][https://github.com/davidferdinand/pagerduty_graf_datasource/watchers]
+[![Star on GitHub](https://img.shields.io/github/stars/davidferdinand/pagerduty_graf_datasource.svg?style=social)][https://github.com/davidferdinand/pagerduty_graf_datasource/stargazers]
+
 
 <hr />
 
